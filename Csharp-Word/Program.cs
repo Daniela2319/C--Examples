@@ -11,4 +11,5 @@ aluno.nota1 = 5;
 aluno.nota2 = 6;
 aluno.mensagem();
 
-
+Professor professor = new Professor("José Pinheiro", "Matemática");
+professor.ExibirInformacoes();

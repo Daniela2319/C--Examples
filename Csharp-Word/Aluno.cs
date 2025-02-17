@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Csharp_Word
 {
-    internal class Aluno
+    public class Aluno
     {
         //Atributos(Attribute)
         public string nome;
