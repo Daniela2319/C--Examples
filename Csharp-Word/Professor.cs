@@ -12,7 +12,7 @@ namespace Csharp_Word
         public string Nome;
         public string Disciplina;
 
-        //contrutor
+        //construtor
         public Professor(string nome, string disciplina)
         {
             Nome = nome;
